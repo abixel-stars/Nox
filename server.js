@@ -91,7 +91,7 @@ const initializeServer = async () => {
         console.log("=======================================");
         console.log("            NOX AI TOOLS            ");
         console.log("=======================================");
-        console.log("Server is running at: ");
+        console.log("Server is running at: https://abixel-stars.github.io/Nox/");
         console.log("Use this tool to generate AI content.\n");
     });
 };
